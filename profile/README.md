@@ -1,0 +1,5 @@
+# FreeMCB
+
+FreeMCB is a pioneering organization committed to fostering the development of free and open-source Microcircuitry Boards (MCBs). A community-driven initiative that brings together enthusiasts, engineers, designers, and researchers to create and share innovative microcircuitry board designs, enabling easy access to cutting-edge electronic solutions for various applications. Moreover, FreeMCB aims to empower individuals with the resources and tools they need to create, modify, and utilize microcircuitry boards for a wide range of applications.
+
+FreeMCB stands for "Free Microcircuitry Boards," reflecting the commitment of providing high-quality microcircuitry board designs that are both free in terms of cost and open in terms of accessibility. The organization aims to democratize access to advanced electronic hardware by promoting the sharing of knowledge, resources, and designs.
